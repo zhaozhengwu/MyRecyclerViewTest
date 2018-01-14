@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
         StaggeredGridLayoutManager staggeredGridLayoutManager=new StaggeredGridLayoutManager(3,StaggeredGridLayoutManager.VERTICAL);
         recyclerView.setLayoutManager(staggeredGridLayoutManager);
         initData();
+
         myRecyclerViewAdapter=new MyRecyclerViewAdapter(listBean);
         recyclerView.setAdapter(myRecyclerViewAdapter);
 
