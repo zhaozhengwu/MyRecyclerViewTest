@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
             Bean bean=new Bean();
             bean.setName("recycler");
             Bean bean1=new Bean();
-            bean1.setName("recyclerffffdddddddddddddddfffffffffffffffffffffffffffffffffffffffrsfffffffffffffffff");
+            bean1.setName("wrecyclerffffdddddddddddddddfffffffffffffffffffffffffffffffffffffffrsfffffffffffffffff");
             listBean.add(bean);
             listBean.add(bean1);
         }
