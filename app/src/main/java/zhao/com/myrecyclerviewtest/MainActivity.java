@@ -1,11 +1,7 @@
 package zhao.com.myrecyclerviewtest;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.GridLayoutManager;
-import android.support.v7.widget.LinearLayoutManager;
-import android.support.v7.widget.RecyclerView;
-import android.support.v7.widget.StaggeredGridLayoutManager;
+
 
 import java.util.ArrayList;
 import java.util.List;
