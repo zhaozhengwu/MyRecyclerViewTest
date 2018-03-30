@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
     public void initData(){
         for (int i=0;i<100;i++){
             Bean bean=new Bean();
-            bean.setName("recycler");
+            bean.setName("NEwNEWrecycler");
             Bean bean1=new Bean();
             bean1.setName("wwrecyclerffffdddddddddddddddfffffffffffffffffffffffffffffffffffffffrsfffffffffffffffff");
             listBean.add(bean);
